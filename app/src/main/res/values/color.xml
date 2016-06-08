@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myPrimaryColor_fragmentA">#2196F3</color>
+    <color name="myPrimaryColor_fragmentB">#0cb51a</color>
+    <color name="myPrimaryColor_fragmentC">#d2cf00</color>
+    <color name="myPrimaryColor_fragmentD">#FF4081</color>
+    <color name="myPrimaryColor_tab">#080809</color>
+
+
+</resources>
